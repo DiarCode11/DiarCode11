@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @DiarCode11
-- 👀 I’m interested in Artficial Intelligence like NLP, Computer Vision and other, i'm also like web programming
+- 👀 I’m interested in Artificial Intelligence like Generative AI, Computer Vision, Web programming and Internet of Things
 - 🌱 I’m currently learning in Undiksha, Bali
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 💞️ I’m looking to collaborate on UPA TIK Undiksha
+- 📫 How to reach me? You can go to my social media
+- 😄 Pronouns: 
 - ⚡ Fun fact: ...
 
 <!---
